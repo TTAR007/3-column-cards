@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View solution URL](https://www.frontendmentor.io/solutions/3-column-cardmobile-first-wM-KejKaID)
+- Live Site URL: [View Live site URL](https://ttar007.github.io/3-column-cards/)
 
 ## My process
 
