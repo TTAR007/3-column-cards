@@ -23,7 +23,7 @@
 
 body {
     background-color: var(--light-grey);
-    font-family: 'Lexend Deca';
+    font-family: 'Lexend Deca', sans-serif;
     padding: 5rem 0;
 
     position: relative;
@@ -57,7 +57,7 @@ img {
 }
 
 h1 {
-    font-family: 'Big Shoulders';
+    font-family: 'Big Shoulders', sans-serif;
     color: var(--light-grey);
     text-transform: uppercase;
     font-size: 2.3rem;
